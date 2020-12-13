@@ -1,0 +1,5 @@
+.env
+app.conf
+db.json
+*/**/__pycache__
+src/request
